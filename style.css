@@ -74,7 +74,7 @@ img {
 
 /* RESPONSIVE */
 
-/* @media screen and (max-width:768px) {
+@media screen and (max-width:768px) {
   #lezioni .row>.left, #lezioni .row>.right {
     width: 100%;
     padding: 10px;
@@ -93,8 +93,7 @@ img {
     padding: 10px;
   }
 
-  .container.grey {
-    max-width: 100%;
+  #why {
     background-color: lightslategrey;
   }
 
@@ -103,7 +102,7 @@ img {
   #why .row>.third {
   width: 100%;
   }
-} */
+}
 
 
 
